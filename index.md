@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Deep Learning and Remote Sensing for Coastal Monitoring Bass Connections Team
 
-You can use the [editor on GitHub](https://github.com/patrickcgray/deep_learning-remote_sensing-coastal_monitoring/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Remote sensing plays a critical role in the study and management of coastal ecosystems. Satellite imagery permits accurate land cover mapping at medium resolution and unoccupied aerial systems (UAS, aka drones) complement satellites, providing on-demand remote sensing capabilities at low cost and with modular sensors that can assess a wide variety of variables.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+While powerful tools, satellites and UAS generate massive amounts of data. The expertise and time required to analyze this imagery is an obstacle in using it to understand long term land cover dynamics and quickly analyze impacts of storms – an obstacle machine learning is well poised to mitigate.
 
-### Markdown
+The purpose of this project is to develop a methodology for rapid and high-resolution monitoring of the coastal Southeast US.
+We will do so by leveraging deep learning to automate land cover mapping in satellite imagery. The change detected by comparing yearly land cover maps will guide UAS surveys for areas that experienced substantial change.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[bass connections showcase poster here]
 
-```markdown
-Syntax highlighted code block
+### Student Profiles and Projects
 
-# Header 1
-## Header 2
-### Header 3
+#### Diego Chamarro
+student profile
+[poster here]
 
-- Bulleted
-- List
+#### Kendall Jefferys
+student profile
+[poster here]
 
-1. Numbered
-2. List
+#### Sofia Nieto
+student profile
+[poster here]
 
-**Bold** and _Italic_ and `Code` text
+#### Yousuf Rehman
+student profile
+[poster here]
 
-[Link](url) and ![Image](src)
-```
+#### Team Leadership
+add details here
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrickcgray/deep_learning-remote_sensing-coastal_monitoring/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### About the Project
+This project was funded by [Duke Bass Connections](https://bassconnections.duke.edu/) a program that "bridges the classroom and the real world, giving students a chance to roll up their sleeves and tackle complex societal problems." Team of graduate students, postdocs, faculty, and undergraduate students collaborate on novel research projects across disciplines. The project was run primarily by the [Marine Robotics and Remote Sensing](https://sites.nicholas.duke.edu/uas/) at the [Duke Marine Lab](https://nicholas.duke.edu/marinelab).
