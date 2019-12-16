@@ -1,4 +1,4 @@
-## Deep Learning and Remote Sensing for Coastal Monitoring Bass Connections Team
+### Project Overview
 
 Remote sensing plays a critical role in the study and management of coastal ecosystems (Figure 1). As a key example, satellite imagery enables accurate land cover mapping at medium resolution (Figure 2) and these land cover maps can be compared from year to year to understand large scale change and ecosystem dynamics. Unoccupied aerial systems (UAS, aka drones) complement satellites, providing on-demand remote sensing capabilities at low cost and with modular sensors that can assess a wide variety of variables.
 
