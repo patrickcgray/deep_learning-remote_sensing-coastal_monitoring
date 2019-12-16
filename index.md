@@ -1,6 +1,16 @@
 ## Deep Learning and Remote Sensing for Coastal Monitoring Bass Connections Team
 
-Remote sensing plays a critical role in the study and management of coastal ecosystems. Satellite imagery permits accurate land cover mapping at medium resolution and unoccupied aerial systems (UAS, aka drones) complement satellites, providing on-demand remote sensing capabilities at low cost and with modular sensors that can assess a wide variety of variables.
+Remote sensing plays a critical role in the study and management of coastal ecosystems (Figure 1). As a key example, satellite imagery enables accurate land cover mapping at medium resolution (Figure 2) and these land cover maps can be compared from year to year to understand large scale change and ecosystem dynamics. Unoccupied aerial systems (UAS, aka drones) complement satellites, providing on-demand remote sensing capabilities at low cost and with modular sensors that can assess a wide variety of variables.
+
+<div style="text-align:center">
+<img src="landsat8_florence.png" alt="Hurricane Florence from Landsat 8" width="450"/>
+</div>
+Figure 1. The view of southeastern North Carolina days after the impact of Hurricane Florence in September 2018 from Landsat 8. Image Credit: NASA/USGS.
+
+<div style="text-align:center">
+<img src="nc_maps.png" alt="Elevation and Landcover of Eastern North Carolina" width="450"/>
+</div>
+Figure 2. A map of elevation and landcover in eastern North Carolina.
 
 While powerful tools, satellites and UAS generate massive amounts of data. The expertise and time required to analyze this imagery is an obstacle in using it to understand long term land cover dynamics and quickly analyze impacts of storms – an obstacle machine learning is well poised to mitigate.
 
