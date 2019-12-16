@@ -26,13 +26,19 @@ Kendall Jefferys is an undergrad at Duke University double majoring in Environme
 </object>
 
 #### Sofia Nieto
-student profile
+Sofia Nieto is a junior studying Computer Science and Biology at Duke University. She has previously done research on utilizing augmented reality to better assess concussions and the mitochondrial protein mitofilin. In the spring semester, she will be studying at the Duke Marine Lab and is interested in continuing to find ways to combine her interests in coastal and marine ecology and data science.
+
+
 [poster here]
 
 #### Yousuf Rehman
-student profile
-[poster here]
+Yousuf Rehman is a senior majoring in Electrical & Computer Engineering at Duke University. He is interested in developing deep learning and artificial intelligence techniques to solve problems in computer vision, smart cameras, and environmental conservation. Yousuf hopes to apply deep learning skills to large-scale problems and is currently working on a new type of loss function.
 
+<object data="Yousuf_Rehman_Bass_Connections_Poster_edited.pdf" type="application/pdf" width="700px" height="525px">
+    <embed src="Yousuf_Rehman_Bass_Connections_Poster_edited.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Yousuf_Rehman_Bass_Connections_Poster_edited.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 #### Team Leadership
 add details here
 
