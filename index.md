@@ -7,8 +7,6 @@ While powerful tools, satellites and UAS generate massive amounts of data. The e
 The purpose of this project is to develop a methodology for rapid and high-resolution monitoring of the coastal Southeast US.
 We will do so by leveraging deep learning to automate land cover mapping in satellite imagery. The change detected by comparing yearly land cover maps will guide UAS surveys for areas that experienced substantial change.
 
-[bass connections showcase poster here]
-
 ### Student Profiles and Projects
 
 #### Diego Chamarro
@@ -28,8 +26,11 @@ Kendall Jefferys is an undergrad at Duke University double majoring in Environme
 #### Sofia Nieto
 Sofia Nieto is a junior studying Computer Science and Biology at Duke University. She has previously done research on utilizing augmented reality to better assess concussions and the mitochondrial protein mitofilin. In the spring semester, she will be studying at the Duke Marine Lab and is interested in continuing to find ways to combine her interests in coastal and marine ecology and data science.
 
-
-[poster here]
+<object data="Sofia_Nieto_Bass_Connections_Poster_edited.pdf" type="application/pdf" width="700px" height="525px">
+    <embed src="Sofia_Nieto_Bass_Connections_Poster_edited.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Sofia_Nieto_Bass_Connections_Poster_edited.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 #### Yousuf Rehman
 Yousuf Rehman is a senior majoring in Electrical & Computer Engineering at Duke University. He is interested in developing deep learning and artificial intelligence techniques to solve problems in computer vision, smart cameras, and environmental conservation. Yousuf hopes to apply deep learning skills to large-scale problems and is currently working on a new type of loss function.
@@ -39,8 +40,9 @@ Yousuf Rehman is a senior majoring in Electrical & Computer Engineering at Duke 
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Yousuf_Rehman_Bass_Connections_Poster_edited.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
 #### Team Leadership
-add details here
+This team is lead by [Patrick Gray](https://nicholas.duke.edu/people/students/gray), [Justin Ridge](https://sites.duke.edu/justinridge/), and [David Johnston](https://nicholas.duke.edu/people/faculty/johnston), of the [Marine Robotics and Remote Sensing Lab](https://sites.nicholas.duke.edu/uas/) at the Duke University Marine Lab. 
 
 
 ##### About the Project
