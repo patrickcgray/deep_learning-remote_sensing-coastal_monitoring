@@ -16,8 +16,14 @@ student profile
 [poster here]
 
 #### Kendall Jefferys
-student profile
-[poster here]
+
+Kendall Jefferys is an undergrad at Duke University double majoring in Environmental Science and Policy with a Marine Concentration as well as English. She is a Rachel Carson Scholar and will be to studying at the Duke Marine Lab in Spring 2020. Through Bass Connections, she has been working on applying remote sensing to ecological questions around coastal change and storm impacts, primarily working on various techniques of land cover classification in Google Earth Engine, as well as land cover analysis in R.
+
+<object data="Kendall_Jefferys_Bass_Connections_Poster_edited.pdf" type="application/pdf" width="700px" height="525px">
+    <embed src="Kendall_Jefferys_Bass_Connections_Poster_edited.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Kendall_Jefferys_Bass_Connections_Poster_edited.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 #### Sofia Nieto
 student profile
