@@ -70,4 +70,6 @@ This team is lead by [Patrick Gray](https://nicholas.duke.edu/people/students/gr
 
 
 ### About the Project
-This project was funded by [Duke Bass Connections](https://bassconnections.duke.edu/) a program that "bridges the classroom and the real world, giving students a chance to roll up their sleeves and tackle complex societal problems." Team of graduate students, postdocs, faculty, and undergraduate students collaborate on novel research projects across disciplines. The project was run primarily by the [Marine Robotics and Remote Sensing](https://sites.nicholas.duke.edu/uas/) at the [Duke Marine Lab](https://nicholas.duke.edu/marinelab).
+This project was funded by [Duke Bass Connections](https://bassconnections.duke.edu/) a program that "bridges the classroom and the real world, giving students a chance to roll up their sleeves and tackle complex societal problems." Teams of graduate students, postdocs, faculty, and undergraduate students collaborate on novel research projects across disciplines. The project was run primarily by the [Marine Robotics and Remote Sensing](https://sites.nicholas.duke.edu/uas/) at the [Duke Marine Lab](https://nicholas.duke.edu/marinelab).
+
+Computational expenses on Microsoft Azure were supported by the [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) program. [North Carolina Space Grant](https://ncspacegrant.ncsu.edu/) and the NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST) supported graduate student time.
