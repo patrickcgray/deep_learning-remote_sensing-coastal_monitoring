@@ -20,8 +20,14 @@ We will do so by leveraging deep learning to automate land cover mapping in sate
 ### Student Profiles and Projects
 
 #### Diego Chamarro
-student profile
-[poster here]
+
+Diego is a student at Duke University double majoring in Electrical & Computer Engineering and Computer Science. He is passionate about using technology to tackle difficult and large-scale problems. Through the Bass Connections program, he has been able to explore his interest in Deep Learning and received significant mentorship that has sharpened his research skills.
+
+<object data="Diego_Chamorro_Bass_Connections_Poster_edited.pdf" type="application/pdf" width="700px" height="525px">
+    <embed src="Diego_Chamorro_Bass_Connections_Poster_edited.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Diego_Chamorro_Bass_Connections_Poster_edited.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 <hr>
 
